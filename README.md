@@ -9,7 +9,7 @@
 
 *Autonomously governed decentralized digital asset exchange.*
 
-These are the Ethereum smart contracts for the Qwoyn Nifty Exchange Protocol and the Qwoyn Xchange ERC20 token (WYV). For general information on the Qwoyn project, please see [the website](https://qwoyn.io).
+These are the Ethereum smart contracts for the Qwoyn Nifty Exchange Protocol and the Qwoyn Xchange ERC20 token (QXT). For general information on the Qwoyn project, please see [the website](https://qwoyn.io).
 
 ### Deployed Contracts
 
