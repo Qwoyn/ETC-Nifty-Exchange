@@ -9,7 +9,7 @@
 
 *Autonomously governed decentralized digital asset exchange.*
 
-These are the Ethereum smart contracts for the Wyvern Protocol, the Wyvern ERC20 token (WYV), and the Wyvern DAO. For general information on the Wyvern project, please see [the website](https://projectwyvern.com).
+These are the Ethereum smart contracts for the Qwoyn Nifty Exchange Protocol and the Qwoyn Xchange ERC20 token (WYV). For general information on the Qwoyn project, please see [the website](https://qwoyn.io).
 
 ### Deployed Contracts
 
